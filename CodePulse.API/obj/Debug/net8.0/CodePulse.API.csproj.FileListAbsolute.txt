@@ -135,3 +135,4 @@
 /Users/adamsuchihafizullah/Projects/CodePulse/API/CodePulse.API/CodePulse.API/obj/Debug/net8.0/CodePulse.API.pdb
 /Users/adamsuchihafizullah/Projects/CodePulse/API/CodePulse.API/CodePulse.API/obj/Debug/net8.0/CodePulse.API.genruntimeconfig.cache
 /Users/adamsuchihafizullah/Projects/CodePulse/API/CodePulse.API/CodePulse.API/obj/Debug/net8.0/ref/CodePulse.API.dll
+/Users/adamsuchihafizullah/Projects/CodePulse/API/CodePulse.API/CodePulse.API/obj/Debug/net8.0/CodePulse.API.sourcelink.json
